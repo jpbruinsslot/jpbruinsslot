@@ -1,0 +1,17 @@
+name: Articles in README
+
+on:
+  schedule:  
+    - cron: '0 * * * *'
+  workflow_dispatch:  
+
+jobs:
+  update-readme-with-articles:  
+    runs-on: ubuntu-latest  
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:  
+          comment_tag_name: "ARTICLES"
+          feed_list: "https://bruinsslot.jp/index.xml"
+
