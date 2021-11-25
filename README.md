@@ -31,4 +31,9 @@ existing projects.
 <h3>My latests articles</h3>
 
 <!-- ARTICLES:START -->
+- [Securing Go HTTP webservers](https://bruinsslot.jp/post/go-secure-webserver/)
+- [Encrypt data with a password in Go](https://bruinsslot.jp/post/golang-crypto/)
+- [How to profile Go applications inside a docker container](https://bruinsslot.jp/post/profiling-golang-docker-2/)
+- [How to profile Python applications inside a docker container](https://bruinsslot.jp/post/profiling-python-docker/)
+- [A minimal REST API Django setup as a microservices](https://bruinsslot.jp/post/minimal-django/)
 <!-- ARTICLES:END -->
