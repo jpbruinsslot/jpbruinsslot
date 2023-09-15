@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-I’m a multidisciplinary software engineer with more than 10 years of
+I’m a multidisciplinary software engineer with more than 15 years of
 professional experience with multiple technologies, frameworks, and languages.
 I’m passionate about designing and developing innovative, and scalable software
 solutions in data intensive environments. I help companies with technical
