@@ -15,4 +15,9 @@ solutions tailored for data-intensive environments.
 ### 📚 My latest articles
 
 <!-- ARTICLES:START -->
+- [Making a simple HTTP webserver in C](https://bruinsslot.jp/post/simple-http-webserver-in-c/)
+- [Securing Go HTTP webservers](https://bruinsslot.jp/post/go-secure-webserver/)
+- [Encrypt data with a password in Go](https://bruinsslot.jp/post/golang-crypto/)
+- [How to profile Go applications inside a docker container](https://bruinsslot.jp/post/profiling-golang-docker-2/)
+- [How to profile Python applications inside a docker container](https://bruinsslot.jp/post/profiling-python-docker/)
 <!-- ARTICLES:END -->
