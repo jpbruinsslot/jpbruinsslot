@@ -12,7 +12,7 @@ solutions tailored for data-intensive environments.
 - website: [bruinsslot.jp](https://bruinsslot.jp)
 - linkedin: [linkedin.com/in/jpbruinsslot](https://www.linkedin.com/in/jpbruinsslot/)
 
-### 📚 My latest blog posts
+### 📚 My latest articles
 
 <!-- ARTICLES:START -->
 <!-- ARTICLES:END -->
