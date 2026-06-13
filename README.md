@@ -40,8 +40,7 @@ Here are some of the open-source projects I've designed, built, and maintain:
 
 #### 📡 Systems & Low-Level Programming
 
-- **[profile-python-docker](https://github.com/jpbruinsslot/profile-python-docker)**
-  - Utilities and scripts to profile Python applications inside a Docker
+- **[profile-python-docker](https://github.com/jpbruinsslot/profile-python-docker)** - Utilities and scripts to profile Python applications inside a Docker
     container.
 - **[rust-by-example](https://github.com/jpbruinsslot/rust-by-example)** - Code
   examples and exercise companions for rustbyexample.io, introducing the Rust
